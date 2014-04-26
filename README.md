@@ -1,3 +1,3 @@
-test-repo
+datasciencecoursera
 =========
 This is a test repo
